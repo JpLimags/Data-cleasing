@@ -6,4 +6,4 @@ A priori neste repositório fizemos o processo de medição estátistica dentre 
 
 This repository is the result of an activity requested by Lead Dell, during the python course for machine learning, which I concluded.
 
-A priori, in this repository, we performed the statistical measurement process among user data from a social network in order to answer some questions, such as: The day that had the most views and the person who had the most views,
+A priori, in this repository, we performed the statistical measurement process among user data from a social network in order to answer some questions, such as: The day that had the most views and the person who had the most views.
